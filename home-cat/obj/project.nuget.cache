@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxgq3SEmXXM=",
+  "success": true,
+  "projectFilePath": "/home/dombi-balazs/RiderProjects/home-cat/home-cat/home-cat.csproj",
+  "expectedPackageFiles": [
+    "/home/dombi-balazs/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/home/dombi-balazs/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
