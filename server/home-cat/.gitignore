@@ -1,0 +1,13 @@
+# Visual Studio user settings and cache
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.VC.db
+*.vsp
+*.vspscc
+
+# Build folders
+bin/
+obj/
