@@ -71,7 +71,6 @@ function App() {
           </tbody>
         </table>
       )}
-
       <p className="footer">Footer text</p>
     </div>
   );
